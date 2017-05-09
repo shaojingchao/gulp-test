@@ -6,6 +6,8 @@ var uglify = require('gulp-uglify');
 //合并js文件
 var concat = require('gulp-concat');
 var cssmin = require('gulp-minify-css');
+
+// less编译
 var less = require('gulp-less');
 var cssver = require('gulp-make-css-url-version');
 var del = require('del');
