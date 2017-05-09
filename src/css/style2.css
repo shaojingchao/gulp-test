@@ -1,0 +1,7 @@
+.div {
+  width: 100px;
+  font-size: 100px;
+}
+.div .child {
+  width: 90px;
+}

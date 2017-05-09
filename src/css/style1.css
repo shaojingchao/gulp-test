@@ -1,0 +1,8 @@
+.div {
+  width: 100px;
+  font-size: 100px;
+}
+.div .child {
+  width: 90px;
+  background: url(../img/sicons.png) center center no-repeat;
+}
